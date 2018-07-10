@@ -30,3 +30,12 @@ var y = 2 + 3;
 <li>List Item 2</li>
 <li>List Item 3</li>
 </ul>
+```
+
+## Tabs
+Tab 1 | Tab 2
+--- | ---
+one | 1
+two | 2
+three | 3
+
