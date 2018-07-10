@@ -1,10 +1,8 @@
 hello git and github
 
-This is a change
-
-another line
 ## Header
 **this is bold p**
+
 _this is italic p_
 
 list:
